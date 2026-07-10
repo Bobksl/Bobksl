@@ -5,7 +5,7 @@
 I am a penultimate-year **Quantitative Finance × Computer Science** student at The University of Hong Kong, building a long-term path as a **systematic investor / quant researcher** in global markets.
 
 - 🔭 I’m currently working on **VCP-Strategy** — a volatility contraction breakout strategy on S&P 500 using CRSP data, with a research-grade backtesting engine and strict no-look-ahead constraints.
-- 🌱 I’m currently learning **factor investing, portfolio construction, and fixed-income systematic signals**.
+- 🌱 I’m currently learning **factor risk modeling, portfolio construction, and fixed-income systematic signals**.
 - 👯 I’m looking to collaborate on **open-source quant research projects**, especially equity/fixed-income strategies, backtesting frameworks, and data pipelines.
 - 💬 Ask me about **systematic equity strategies, backtesting design, risk reporting, and the intersection of markets + software engineering**.
 
@@ -28,7 +28,7 @@ I’m currently a **Research Consultant at WorldQuant**, working on factor and s
 - Linux / WSL for development environments
 
 **AI for Research:**
-- AI Automated Workflow (Using perplexity to build trading idea from scratch, Claude code & Codex for code implementation, backtesting, and live deployment)
+- AI Automated Workflow (Using perplexity to build trading idea from scratch, claude code & codex for code implementation, backtesting, and live deployment)
 - API Integration (Using deepseek-v4-flash for automating daily alpha generation)
 - Prompt Engineering, Harness Engineering
 - Retrieval-Augmented Generation (RAG)
@@ -40,7 +40,7 @@ I’m currently a **Research Consultant at WorldQuant**, working on factor and s
 - **VCP-Strategy**  
   Volatility Contraction Pattern breakout strategy on S&P 500 (CRSP data), implemented with an online directional-change scanner, causal signal generation, and a custom backtest engine. Includes trade logs, R-multiple analysis, and walk-forward in/out-of-sample splits.
 
-- **Systematic Crypto Strategies (SG×HK Quant Hackathon)**  
+- **Crypto Quant Bot**  
   End-to-end crypto trading system comparing a Logistic Regression-based strategy with a SMA+RSI momentum rule set on BTCUSDT hourly data. Features data pipelines, backtesting, risk metrics (Sharpe, Sortino, Calmar, max drawdown), and Roostoo API integration.
 
 - **Beyond-Binary**  
