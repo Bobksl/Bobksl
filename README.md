@@ -5,7 +5,7 @@
 I am a penultimate-year **Quantitative Finance × Computer Science** student at The University of Hong Kong, building a long-term path as a **systematic investor / quant researcher** in global markets.
 
 - 🔭 I’m currently working on **VCP-Strategy** — a volatility contraction breakout strategy on S&P 500 using CRSP data, with a research-grade backtesting engine and strict no-look-ahead constraints.
-- 🌱 I’m currently learning **factor risk modelling, portfolio construction, and fixed-income systematic signals**.
+- 🌱 I’m currently learning **factor investing, portfolio construction, and fixed-income systematic signals**.
 - 👯 I’m looking to collaborate on **open-source quant research projects**, especially equity/fixed-income strategies, backtesting frameworks, and data pipelines.
 - 💬 Ask me about **systematic equity strategies, backtesting design, risk reporting, and the intersection of markets + software engineering**.
 
@@ -49,16 +49,6 @@ I’m currently a **Research Consultant at WorldQuant**, working on factor and s
 
 ---
 
-### 📈 GitHub Stats
-
-> I’m early in my GitHub journey; most of my current work is in private and institutional environments. I’m actively migrating research prototypes into open-source, documented projects.
-
-<!-- Replace USERNAME with your actual GitHub username -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bobksl&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bobksl&layout=compact&theme=tokyonight)
-
----
-
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kwong%20Sing%20Liang-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kwong-sing-liang-6876562aa/)
@@ -68,6 +58,5 @@ I’m currently a **Research Consultant at WorldQuant**, working on factor and s
 
 ### 🎯 Current Goals
 
-- Ship **VCP-Strategy** as a clean, reproducible open-source quant research project.
 - Build and publish at least one **factor risk model** and one **fixed-income strategy** repo.
 - Use GitHub as my public research log for systematic investing, documenting ideas, assumptions, and results.
