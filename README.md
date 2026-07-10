@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Bob Liang
+# Hi there! 👋 I'm Bob
 
 ### 🚀 About Me
 
