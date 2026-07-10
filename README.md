@@ -16,23 +16,22 @@ I’m currently a **Research Consultant at WorldQuant**, working on factor and s
 ### 🛠️ Tech Stack & Skills
 
 **Languages:**
-- Python (pandas, NumPy, scikit-learn, matplotlib)
-- Databases (MySQL, PostgreSQL)
-- C++, Java, Javascript
-- VBA (for Excel automation)
-
-**Frameworks / Libraries:**
-- Jupyter Notebook for research prototyping
-- scikit-learn (ML models and pipelines)
-- Plotly / matplotlib (visualisation)
-- Bloomberg API, CRSP (via university access)
+- Python (NumPy, pandas, scikit-learn, matplotlib)
+- Databases (MySQL, Supabase, VectorDB)
+- C/C++, Java, JavaScript, TypeScript
 
 **Tools:**
 - Git & GitHub for version control
-- Excel (advanced modelling and reporting)
+- Excel VBA (advanced modelling and reporting)
 - Bloomberg Terminal
 - AWS (basic experience from Web3 quant hackathon)
 - Linux / WSL for development environments
+
+**AI for Research:**
+- AI Automated Workflow (Using perplexity to build trading idea from scratch, Claude code & Codex for code implementation, backtesting, and live deployment)
+- API Integration (Using deepseek-v4-flash for automating daily alpha generation)
+- Prompt Engineering, Harness Engineering
+- Retrieval-Augmented Generation (RAG)
 
 ---
 
