@@ -17,7 +17,7 @@ I’m currently a **Research Consultant at WorldQuant**, working on factor and s
 
 **Languages:**
 - Python (NumPy, pandas, scikit-learn, matplotlib)
-- Databases (MySQL, Supabase, VectorDB)
+- Databases (MySQL, PostgreSQL)
 - C/C++, Java, JavaScript, TypeScript
 
 **Tools:**
@@ -28,23 +28,23 @@ I’m currently a **Research Consultant at WorldQuant**, working on factor and s
 - Linux / WSL for development environments
 
 **AI for Research:**
-- AI Automated Workflow (Using perplexity to build trading idea from scratch, claude code & codex for code implementation, backtesting, and live deployment)
-- API Integration (Using deepseek-v4-flash for automating daily alpha generation)
-- Prompt Engineering, Harness Engineering
+- AI Automated Workflow (Using claude code and codex to build an agentic workflow that automates daily alpha generation)
+- API Integration (deepseek-v4-flash, kimi-k3)
+- Prompt Engineering, Harness Engineering, Loop Engineering
 - Retrieval-Augmented Generation (RAG)
 
 ---
 
 ### 📌 Featured Projects
 
-- **VCP-Strategy**  
+- **Equity Filings RAG**
+  AI-powered RAG pipeline for equity filings that delivers citable answers to fundamental and risk questions from company reports. Bridges fundamental document analysis with systematic investing by turning long disclosures into structured, machine-readable insights.
+
+- **VCP Strategy**  
   Volatility Contraction Pattern breakout strategy on S&P 500 (CRSP data), implemented with an online directional-change scanner, causal signal generation, and a custom backtest engine. Includes trade logs, R-multiple analysis, and walk-forward in/out-of-sample splits.
 
 - **Crypto Quant Bot**  
   End-to-end crypto trading system comparing a Logistic Regression-based strategy with a SMA+RSI momentum rule set on BTCUSDT hourly data. Features data pipelines, backtesting, risk metrics (Sharpe, Sortino, Calmar, max drawdown), and Roostoo API integration.
-
-- **Beyond-Binary**  
-  JavaScript project exploring development skills and front-end engineering.
 
 ---
 
