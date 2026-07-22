@@ -37,7 +37,7 @@ I’m currently a **Research Consultant at WorldQuant**, working on factor and s
 
 ### 📌 Featured Projects
 
-- **Equity Filings RAG**
+- **Equity Filings RAG**  
   AI-powered RAG pipeline for equity filings that delivers citable answers to fundamental and risk questions from company reports. Bridges fundamental document analysis with systematic investing by turning long disclosures into structured, machine-readable insights.
 
 - **VCP Strategy**  
