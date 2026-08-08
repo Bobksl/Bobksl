@@ -2,14 +2,14 @@
 
 ### 🚀 About Me
 
-I am a penultimate-year **Quantitative Finance × Computer Science** student at The University of Hong Kong, building a long-term path as a **systematic investor / quant researcher** in global markets.
+I am a **Quantitative Finance** student at HKU, building a long-term path as a **systematic investor / quant researcher** in global markets.
 
-- 🔭 I’m currently working on **VCP-Strategy** — a volatility contraction breakout strategy on S&P 500 using CRSP data, with a research-grade backtesting engine and strict no-look-ahead constraints.
-- 🌱 I’m currently learning **factor risk modeling, portfolio construction, and fixed-income systematic signals**.
-- 👯 I’m looking to collaborate on **open-source quant research projects**, especially equity/fixed-income strategies, backtesting frameworks, and data pipelines.
-- 💬 Ask me about **systematic equity strategies, backtesting design, risk reporting, and the intersection of markets + software engineering**.
+- 🔭 I’m currently working on a **fixed-income systematic signals** project - Term Structure Carry & Curve Strategy on US Treasuries.
+- 🌱 I’m currently learning **technical analysis, multifactor models, and machine learning for algorithmic trading**.
+- 👯 I’m looking to collaborate on **open-source quant research projects**, especially equity strategies, backtesting frameworks, and data pipelines.
+- 💬 Ask me about **trading strategies, backtesting design, and the intersection of AI + markets**.
 
-I’m currently a **Research Consultant at WorldQuant**, working on factor and style exposure analysis, systematic signal research, and automated performance/risk reporting.
+I’m currently a **Research Consultant at WorldQuant**, working on systematic signal research and AI-automated alpha generation workflow.
 
 ---
 
@@ -17,14 +17,15 @@ I’m currently a **Research Consultant at WorldQuant**, working on factor and s
 
 **Languages:**
 - Python (NumPy, pandas, scikit-learn, matplotlib)
-- Databases (MySQL, PostgreSQL)
+- Databases (MySQL, PostgreSQL, Transact-SQL)
 - C/C++, Java, JavaScript, TypeScript
+- Excel VBA (advanced modelling and reporting)
 
 **Tools:**
-- Git & GitHub for version control
-- Excel VBA (advanced modelling and reporting)
-- Bloomberg Terminal
 - AWS (basic experience from Web3 quant hackathon)
+- Bloomberg Terminal
+- Docker Desktop for containerization
+- Git & GitHub for version control
 - Linux / WSL for development environments
 
 **AI for Research:**
@@ -57,5 +58,5 @@ I’m currently a **Research Consultant at WorldQuant**, working on factor and s
 
 ### 🎯 Current Goals
 
-- Build and publish at least one **factor risk model** and one **fixed-income strategy** repo.
-- Use GitHub as my public research log for systematic investing, documenting ideas, assumptions, and results.
+- Build and publish at least one **multifactor model** and one **fixed-income strategy** repo.
+- Use GitHub as my public research log for systematic investing and vibe quant trading.
