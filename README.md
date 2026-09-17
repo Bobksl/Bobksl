@@ -4,10 +4,10 @@
 
 I am a **Quantitative Finance** student at HKU, building a long-term path as a **systematic investor / quant researcher** in global markets.
 
-- 🔭 I’m currently working on a **fixed-income systematic signals** project - Term Structure Carry & Curve Strategy on US Treasuries.
-- 🌱 I’m currently learning **technical analysis, multifactor models, and machine learning for algorithmic trading**.
+- 🔭 I’m currently working on a **stock pitch engine** vibe coding project - an AI-Assisted Financial Research Pipeline.
+- 🌱 I’m currently learning **time-series analysis, statistical machine learning, and fundamental analysis in trading**.
 - 👯 I’m looking to collaborate on **open-source quant research projects**, especially equity strategies, backtesting frameworks, and data pipelines.
-- 💬 Ask me about **trading strategies, backtesting design, and the intersection of AI + markets**.
+- 💬 Ask me about **trading strategies, backtesting design, and the application of AI in financial markets**.
 
 I’m currently a **Research Consultant at WorldQuant**, working on systematic signal research and AI-automated alpha generation workflow.
 
@@ -30,22 +30,22 @@ I’m currently a **Research Consultant at WorldQuant**, working on systematic s
 
 **AI for Research:**
 - AI Automated Workflow (Using claude code and codex to build an agentic workflow that automates daily alpha generation)
-- API Integration (deepseek-v4-flash, kimi-k3)
-- Prompt Engineering, Harness Engineering, Loop Engineering
+- API Integration (deepseek)
+- Prompt Engineering, Harness Engineering
 - Retrieval-Augmented Generation (RAG)
 
 ---
 
 ### 📌 Featured Projects
 
-- **Equity Filings RAG**  
+- **Stock Pitch Engine**  
   AI-powered RAG pipeline for equity filings that delivers citable answers to fundamental and risk questions from company reports. Bridges fundamental document analysis with systematic investing by turning long disclosures into structured, machine-readable insights.
+
+- **Job Application Copilot**
+  A governed AI workflow that turns one job description into fact-checked, copy-ready application materials.
 
 - **VCP Strategy**  
   Volatility Contraction Pattern breakout strategy on S&P 500 (CRSP data), implemented with an online directional-change scanner, causal signal generation, and a custom backtest engine. Includes trade logs, R-multiple analysis, and walk-forward in/out-of-sample splits.
-
-- **Crypto Quant Bot**  
-  End-to-end crypto trading system comparing a Logistic Regression-based strategy with a SMA+RSI momentum rule set on BTCUSDT hourly data. Features data pipelines, backtesting, risk metrics (Sharpe, Sortino, Calmar, max drawdown), and Roostoo API integration.
 
 ---
 
@@ -58,5 +58,5 @@ I’m currently a **Research Consultant at WorldQuant**, working on systematic s
 
 ### 🎯 Current Goals
 
-- Build and publish at least one **multifactor model** and one **fixed-income strategy** repo.
+- Build and publish at least one **vibe coding** finance projects and one **crypto trading strategy** repo.
 - Use GitHub as my public research log for systematic investing and vibe quant trading.
